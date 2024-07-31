@@ -1,0 +1,46 @@
+profesor:
+
+- nombre: Federico Esteban
+  foto: /assets/img/docentes/fedee.jpg
+  mail: fede.est@gmail.com
+  mail2: festeban@fi.uba.ar
+  github: fmesteban
+
+ayudantes:
+
+- nombre: Daniela Riesgo
+  foto: /assets/img/docentes/danir.png
+  mail: <TODO>
+  github: danielaRiesgo
+
+- nombre: Juan Ignacio Kristal
+  foto: /assets/img/docentes/juanik.jpg
+  mail: kristaljuanignacio@gmail.com
+  github: juankristal
+
+colaboradores:
+
+- nombre: Facundo Aguirre Argerich
+  foto: /assets/img/docentes/facuaa.png
+  mail: facu_nixerito@hotmail.com
+  github: bonshot
+
+- nombre: Facundo Xu
+  foto: /assets/img/docentes/facuxu.jpg
+  mail: <TODO>
+  github: <TODO>
+
+- nombre: Federico Forte
+  foto: /assets/img/docentes/fedef.jpg
+  mail: forte.federico90@gmail.com
+  github: federicoforte22
+
+- nombre: Fiona Gonzalez Lisella
+  foto: /assets/img/docentes/fionag.jpg
+  mail: fgonzalezlisella@gmail.com
+  github: Fgl
+
+- nombre: Maria Vazquez Navarro
+  foto: /assets/img/docentes/mariavn.png
+  mail: <TODO>
+  github: <TODO>
