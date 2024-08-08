@@ -25,7 +25,4 @@ Nuestro canal de comunicación fuera del horario de clase es [Discord](https://d
 * [Drive general de la materia]({{site.data.links.formulario_grupos}})
 * [Formulario de inscripción de grupos (para el TP2)]({{site.data.links.formulario_grupos}})
 
-## Información sobre próximas clases
-
-Revisar el [calendario detallado]({{site.data.cuatrimestre.calendario_detallado}}) de la materia.
 

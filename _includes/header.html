@@ -20,6 +20,20 @@
                         Calendario</a></li>
                 <li class="nav-item {% if page.permalink == '/tps/' %}active{% endif %}"><a class="nav-link"
                         href="{{ '/tps/' | relative_url }}"><span class="fa fa-briefcase"></span> TPs</a></li>
+                <!-- {% assign menu_material = "/bibliografia/, /material, /faq/" | split: ", " %} -->
+                <li
+                        class="nav-item dropdown {% if page.permalink contains 'material' or menu_material contains page.permalink %}active{% endif %}">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" id="matDropdown" data-toggle="dropdown"
+                                aria-haspopup="true" aria-expanded="false">
+                                <span class="fa fa-paperclip"></span> Material</a>
+                        <ul class="dropdown-menu">
+                                <li class="{% if page.permalink == '/links_utiles/' %}active{% endif %}"><a class="dropdown-item"
+                                                href="{{ '/material/links_utiles/' | relative_url }}"><span class="fa fa-book"></span>
+                                                Links Útiles</a></li>
+                                <li class="{% if page.permalink == '/instalacion_linux/' %}active{% endif %}"><a class="dropdown-item"
+                                                href="{{ '/material/instalacion_linux/' | relative_url }}"><span class="fa fa-book-reader"></span> Instalación de Linux</a></li>
+                        </ul>
+                </li>
                 <li class="nav-item {% if page.permalink == '/material/' %}active{% endif %}"><a class="nav-link"
                         href="{{ '/material/' | relative_url }}"><span class="fa fa-paperclip"></span> Material</a></li>
             </ul>

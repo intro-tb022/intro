@@ -10,7 +10,7 @@ ayudantes:
 
 - nombre: Daniela Riesgo
   foto: /assets/img/docentes/danir.png
-  mail: <TODO>
+  mail: dpriesgo@fi.uba.ar
   github: danielaRiesgo
 
 - nombre: Juan Ignacio Kristal
@@ -27,8 +27,8 @@ colaboradores:
 
 - nombre: Facundo Xu
   foto: /assets/img/docentes/facuxu.jpg
-  mail: <TODO>
-  github: <TODO>
+  mail: fxu@fi.uba.ar
+  github: FacundoXu
 
 - nombre: Federico Forte
   foto: /assets/img/docentes/fedef.jpg
