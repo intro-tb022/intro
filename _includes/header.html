@@ -10,10 +10,10 @@
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0 small mx-auto">
                 <li class="nav-item {% if page.permalink == '/' %}active{% endif %}"><a class="nav-link"
                         href="{{ '/' | relative_url }}"><span class="fa fa-home"></span> Inicio</a></li>
-                <li class="nav-item {% if page.permalink == '/docentes/' %}active{% endif %}"><a class="nav-link"
-                        href="{{ '/docentes/' | relative_url }}"><span class="fa fa-chalkboard-teacher"></span>Docentes</a></li>
-                <li class="nav-item {% if page.permalink == '/regimen/' %}active{% endif %}"><a class="nav-link"
-                        href="{{ '/regimen/' | relative_url }}"><span class="fa fa-tasks"></span> Régimen</a></li>
+                <li class="nav-item {% if page.permalink == './docentes/' %}active{% endif %}"><a class="nav-link"
+                        href="{{ './docentes/' | relative_url }}"><span class="fa fa-chalkboard-teacher"></span>Docentes</a></li>
+                <li class="nav-item {% if page.permalink == './regimen/' %}active{% endif %}"><a class="nav-link"
+                        href="{{ './regimen/' | relative_url }}"><span class="fa fa-tasks"></span> Régimen</a></li>
                 <li class="nav-item {% if page.permalink == '/calendario/' %}active{% endif %}"><a class="nav-link"
                         href="{{ '/calendario/' | relative_url }}"><span class="fa fa-calendar-alt"></span>Calendario</a></li>
                 <li class="nav-item {% if page.permalink == '/tps/' %}active{% endif %}"><a class="nav-link"
