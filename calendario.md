@@ -10,13 +10,4 @@ La modalidad del curso en el 1er cuatrimestre 2024 es **virtual**:
 
 ## Cronograma de clases
 
-Pronto publicaremos aquí el cronograma detallado de clases para el 2do
-cuatrimestre 2024.
-
-A continuación se presenta el
-[cronograma detallado](<link>)
-con las fechas de cada clase teórica y práctica, los parcialitos y las fechas
-de presentación y entrega de cada trabajo práctico.
-
-<!-- Publish to the web -> Link (solo la pestaña calendario) -->
-<iframe src="<link>" style="width: 100%; height: 700px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1V3VdUBTQvigiHbwwlzKPkwIUrhyQGFJTaopBazKLda8/pubhtml?gid=1033152279&amp;single=true&amp;widget=true&amp;headers=false" style="width: 880px; height: 800px"></iframe>

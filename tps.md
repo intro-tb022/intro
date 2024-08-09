@@ -4,8 +4,6 @@ Trabajos Prácticos
 En esta sección iremos agregando los **Trabajos Prácticos** a realizar, con sus
 respectivas fechas de entrega.
 
-Las entregas están acompañadas de archivos adjuntos, todos ubicados en [el sitio de descargas]({{site.skel}}).
-
 <table class="table table-striped">
   <tbody id="tabla-trabajos">
     <tr>
