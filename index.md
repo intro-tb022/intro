@@ -22,6 +22,6 @@ Nuestro canal de comunicación fuera del horario de clase es [Discord](https://d
 ## Links Principales
 
 * [Google calendar de reuniones virtuales]({{site.data.links.calendario}})
-* [Drive general de la materia]({{site.data.links.formulario_grupos}})
+* [Drive general de la materia]({{site.data.links.drive}})
 * [Formulario de inscripción de grupos (para el TP2)]({{site.data.links.formulario_grupos}})
 

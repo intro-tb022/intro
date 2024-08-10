@@ -16,8 +16,6 @@ Régimen de cursada
 * Para aprobar un trabajo práctico se debe hacer la entrega correspondiente en tiempo y forma.
 * **Plagiar, copiar o realizar un trabajo práctico junto con otros alumnos que no sean integrantes del grupo implica la desaprobación del trabajo y por lo tanto la materia**.
 * Revisar este [instructivo](utils/chatbots) sobre cuando y cuando no usar chatbots
-* Revisar este [instructivo](intro/utils/chatbots) sobre cuando y cuando no usar chatbots
-* Revisar este [instructivo](/intro/utils/chatbots) sobre cuando y cuando no usar chatbots
 * Cada alumno/grupo tiene asignado un ayudante para la corrección y evaluación de los trabajos prácticos.
 
 ### Coloquio Final
