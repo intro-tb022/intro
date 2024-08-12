@@ -9,8 +9,8 @@ respectivas fechas de entrega.
     <tr>
       <td><strong>TP</strong></td>
       <td><strong>Fecha de publicación</strong></td>
-      <td><strong>Fecha de 1ra entrega</strong></td>
-      <td><strong>Fecha de 2da entrega</strong></td>
+      <td><strong>Fecha de entrega</strong></td>
+      <td><strong>Fecha de reentrega</strong></td>
     </tr>
   </tbody>
 </table>

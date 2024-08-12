@@ -10,7 +10,9 @@ Régimen de cursada
 
 ### Trabajos Prácticos
 
-* Hay **dos trabajos prácticos**, el segundo se conforma de tres partes. Cada parte tendra su propia entrega la cual se corregirá, pero no se pondrá nota por cada una de ellas, sino que la nota del TP2 se pondrá en conjunto para las tres partes. Cada entrega parcial no tendrá períodos de reentrega sino que se deberán arreglar las correcciones en la subsecuente entrega.
+* Hay **dos trabajos prácticos**:
+    * El TP1 tendrá una fecha de entrega fija. De haber correcciones a aplicar el alumno tiene un periódo de reentrega para cual corregir las mismas y volver a entregar el trabajo. Pasada la fecha de reentrega si el TP1 no está aprobado se considera que la cursada (y por lo tanto la materia) esta desaprobada.
+    * Ep TP2 tendrá tres partes. Cada parte tendrá su propia entrega la cual se corregirá, pero no se le pondrá nota. La nota del TP2 se pondrá en conjunto para las tres partes luego de entregar la ultima. Cada entrega parcial no tendrá períodos de reentrega sino que se deberán arreglar las correcciones en la subsecuente entrega.
 * **El primer TP** es individual. **Las entregas del TP2 serán grupales** con grupos de tamaño a definir.
 * Desaprobar un trabajo práctico implica desaprobar la cursada y por lo tanto la materia.
 * Para aprobar un trabajo práctico se debe hacer la entrega correspondiente en tiempo y forma.
