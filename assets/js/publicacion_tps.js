@@ -35,7 +35,7 @@ function agregarTPsATabla() {
     if (dtHoy <= dtFinCuatrimestre) fila.innerHTML += "<td>" + prettyEntrega1 + "</td>"
     else fila.innerHTML += "<td> </td>"
 
-    if (dtEntrega2 == "Invalid Date" || dtHoy > dtFinCuatrimestre) fila.innerHTML += "<td> </td>"
+    if (dtEntrega2 == "Invalid Date" || dtHoy > dtFinCuatrimestre) fila.innerHTML += "<td> - </td>"
     else fila.innerHTML += "<td>" + prettyEntrega2 + "</td>"
 
     tabla.appendChild(fila)
