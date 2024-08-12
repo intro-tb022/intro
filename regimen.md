@@ -5,12 +5,12 @@ Régimen de cursada
 ### Aprobación
 
 * Para aprobar la **materia** es necesario aprobar la **cursada**
-* Para aprobar la **cursada** es necesario aprobar los **el trabajos práctico 1**, las **tres entregas del trabajo práctico 2** y además **aprobar el coloquio final sobre el trabajo práctico 2**.
+* Para aprobar la **cursada** es necesario aprobar los **el trabajos práctico 1**, las **entrega final del trabajo práctico 2** y además **aprobar el coloquio final sobre el trabajo práctico 2**.
 
 
 ### Trabajos Prácticos
 
-* Hay **dos trabajos prácticos**, el segundo se completa con un total de **tres entregas parciales**.
+* Hay **dos trabajos prácticos**, el segundo se conforma de tres partes. Cada parte tendra su propia entrega la cual se corregirá, pero no se pondrá nota por cada una de ellas, sino que la nota del TP2 se pondrá en conjunto para las tres partes. Cada entrega parcial no tendrá períodos de reentrega sino que se deberán arreglar las correcciones en la subsecuente entrega.
 * **El primer TP** es individual. **Las entregas del TP2 serán grupales** con grupos de tamaño a definir.
 * Desaprobar un trabajo práctico implica desaprobar la cursada y por lo tanto la materia.
 * Para aprobar un trabajo práctico se debe hacer la entrega correspondiente en tiempo y forma.
