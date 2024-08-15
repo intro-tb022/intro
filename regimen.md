@@ -5,7 +5,7 @@ Régimen de cursada
 ### Aprobación
 
 * Para aprobar la **materia** es necesario aprobar la **cursada**
-* Para aprobar la **cursada** es necesario aprobar **el trabajos práctico 1**, la **entrega final del trabajo práctico 2** y además **aprobar el coloquio final sobre el trabajo práctico 2**.
+* Para aprobar la **cursada** es necesario aprobar **el trabajo práctico 1**, la **entrega final del trabajo práctico 2** y además **aprobar el coloquio final sobre el trabajo práctico 2**.
 
 
 ### Trabajos Prácticos
