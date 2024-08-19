@@ -17,7 +17,7 @@ El primer día de clase es el lunes 19/8 a las 11:00. Enviaremos por mail el lin
 
 En caso de encontrar algún problema con la página (desde errores de fechas, links rotos, errores en las guías, etc), por favor crear un issue en [la página de issues del repositorio]({{site.github.repository_url}}/issues).
 
-Nuestro canal de comunicación fuera del horario de clase es [Discord](https://discord.gg/x2g68GkRJP). Unite para mantenerte al tanto de cualquier novedad, y para comunicarte con docentes y estudiantes.
+Nuestro canal de comunicación fuera del horario de clase es [Discord]({{site.data.links.discord}})). Unite para mantenerte al tanto de cualquier novedad, y para comunicarte con docentes y estudiantes.
 
 ## Links Principales
 
