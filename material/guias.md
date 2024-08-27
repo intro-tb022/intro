@@ -4,3 +4,4 @@ A continuación pueden encontrarse las guías de ejercicios de los distintos tem
 
   * [Manejo de Terminal](guias/terminal.md)
   * [Bash](guias/bash.md)
+  * [Procesamiento de archivos](guias/archivos.md)
