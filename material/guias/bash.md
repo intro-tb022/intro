@@ -2,11 +2,15 @@
 
 1. Contar la cantidad de palabras de un archivo. Si no existe, devolver 0.
 
+1. Contar la cantidad de palabras de un archivo sin usar `wc`.
+
+1. Modificar el script anterior para que si no recibe un archivo como argumento, lea de stdin.
+
 1. Dadas las notas de del tp1 y tp2 en dos variables, quiero saber si aprobé o no (aprobar implica que el promedio de las notas sea mayor o igual a `7`).
 
-1. Dada una cantidad indeterminada de notas, valores que mi script recibe por parámetro, deseo saber si aprobé o no (aprobar implica que el promedio de las notas sea mayor o igual a `7`).
-
 1. En un directorio puntual, cuyos subdirectorios representan materias, y en cada una un archivo por cada ejercicio resuelto de la misma, quiero saber para qué materia practiqué más. Los ejercicios empiezan llamándose "ej" (los de programación son `.py` pero los de análisis `.doc`). Ignorar cualquier otro tipo de archivo.
+
+1. Dada una cantidad indeterminada de notas, valores que mi script recibe por parámetro, deseo saber si aprobé o no (aprobar implica que el promedio de las notas sea mayor o igual a `7`).
 
 1. Dado un directorio el cual posee solamente archivos (no tiene subdirectorios) queremos saber el nombre del archivo que se encuentra en la mitad al ordenarlos alfabéticamente.
 
@@ -39,5 +43,5 @@
         ...
     ```
 
-    Queremos saber qué alumnos recursaron la materia (es decir, que tuvieron entregas en más de un cuatrimestre).
+    Queremos saber qué alumnos recursaron la materia en el mismo curso (es decir, que tuvieron entregas en más de un cuatrimestre).
 
