@@ -15,8 +15,15 @@ Escribir un script que:
 
 1. Reciba un archivo y una cantidad indefinida de palabras y cuente la cantidad de líneas en las que aparecen **todas** ellas
 
+1. Retomando el ejercicio 14 de la guía de Terminal, vamos a ser más realistas. El archivo que recibí del SIU Guaraní no es justo lo que yo necesito, sino que tiene la forma:
+```
+codigo;nombre;comision;fecha;nota;referencia
+```
+donde la referencia puede ser: "examen" (examen final), "regularidad" (cursada, es decir), "equivalencia" (dado por aprobar el final de otra materia o conjunto de ellas).
+Nuevamente quiero volver a procesarlo para poder usar el ejecutable de C que ya existe.
 
-## Dado el siguiente archivo padron.csv:
+
+Dado el siguiente archivo padron.csv:
 
 ```
 dni;nombre;apellido;edad;nacionalidad;localidad;codigo_postal
