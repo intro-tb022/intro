@@ -19,18 +19,22 @@ Como la materia es una colección de herramientas, no hay un libro o bibliograf�
 - [Sitio Oficial](https://www.python.org/)
 - [pytest Documentación Oficial](https://docs.pytest.org/en/stable/)
 
-### FastApi
-- [Sitio Oficial](https://fastapi.tiangolo.com/)
-
 ### cURL
 - [Sitio Oficial](https://curl.se/)
 
 ### Postman
 - [Sitio Oficial](https://www.postman.com/)
 
+### FastApi
+- [Sitio Oficial](https://fastapi.tiangolo.com/)
+
 ### SQL
-- [Documentación sobre SQL (by Postgres)](https://www.postgresql.org/docs/current/sql.html)
-- [PostgreSQL Sitio Oficial](https://www.postgresql.org/)
+- [SQLite Sitio Oficial](https://www.sqlite.org/)
+- [Documentación sobre SQL para SQLite](https://www.sqlite.org/docs.html)
+- [Ejemplos de SQL en SQLite](https://www.sqlitetutorial.net/)
+
+### SQLModel ORM
+- [Sitio Oficial](https://sqlmodel.tiangolo.com/)
 
 ### HTML
 - [Sitio NO oficial con información útil](https://developer.mozilla.org/en-US/docs/Web/HTML)
