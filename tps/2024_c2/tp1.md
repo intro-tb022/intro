@@ -1,4 +1,9 @@
-title: TP1 * PokeScript
+---
+math: true
+---
+
+{% assign tp = site.data.trabajos.TP1 %}
+{% capture fecha %}{{tp.entrega | date: "%e/%m"}}{% endcapture %}
 
 # TP1 - PokeScript
 
@@ -140,7 +145,7 @@ Nota: Revisar que el `output.txt` tenga la información esperada antes de entreg
 
 ## Documentos disponibles
 
-Se dispone de varios archivos de tipo csv adjuntos en un [archivos.zip](archivos.zip) para la ejecución del trabajo practico
+Se dispone de varios archivos de tipo csv adjuntos en este link [archivos.zip](archivos.zip) para la ejecución del trabajo practico
 
 Tener en cuenta que no todos los archivos son necesarios para la resolución del TP. Sin embargo, es importante leerlos para entender qué significa cada uno.
 
