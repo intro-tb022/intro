@@ -18,7 +18,7 @@ math: true
 
 - **Pokemon**: monstruo ficticio de la serie animada japonesa Pokemon. Son comunmente utilizados para enfrentarse en batallas entre si. Actualmente hay mas de mil Pokemones. Un clásico ejemplo es Pikachu. Considerar que no existe un unico Pikachu en el mundo, pueden haber infinitos.
 - **Tipo**: uno de los atributos que puede tener un Pokemon. Hay un total de 18 tipos diferentes en Pokemon. Los Pokemones pueden tener hasta un máximo de 2 tipos. Definen la efectividad y resistencia de los ataques que afecten al Pokemon.
-- **Estadística**: al igual que el tipo, las estadísticas son los atributos que tiene un Pokemon. Existen las estadísticas de Ataque (ATK), Defensa (DEF), HitPoints (HP), Ataque Especial (SPATK), Defensa Especial (SDEF) y Velocidad (SPEED). Todos los Pokemones tienen distintas estadisticas base, pero por ejemplo todos los Pikachu tienen las mismas estadisticas base.
+- **Estadística**: al igual que el tipo, las estadísticas son los atributos que tiene un Pokemon. Existen las estadísticas de Ataque (ATK), Defensa (DEF), HitPoints (HP), Ataque Especial (SPATK), Defensa Especial (SPDEF) y Velocidad (SPEED). Todos los Pokemones tienen distintas estadisticas base, pero por ejemplo todos los Pikachu tienen las mismas estadisticas base.
 - **Habilidad**: efecto, usualmente beneficioso, que afecta a un Pokemon. Cada Pokemon tiene un pool de habilidades con las que puede existir, sin embargo, un Pokemon siempre tiene exactamente una Habilidad.
 
 ## Consigna
@@ -38,7 +38,7 @@ El trabajo esta dividido en 4 partes.
 
 Antes de iniciar con los scripts se necesita generar el repositorio de trabajo y mantener un control de versiones adecuado y ordenado.
 
-El nombre del repositorio debe tener un nombre de formato `2024c2_<padron>`, por ejemplo `2024c2_123456`. Este repositorio debe ser **privado** y su rama principal debe estar vacia.
+El nombre del repositorio debe tener un nombre de formato `TB022_2024c2_<padron>`, por ejemplo `TB022_2024c2_123456`. Este repositorio debe ser **privado** y su rama principal debe estar vacia.
 
 Cada script debe ser desarrollado en una rama independiente llamadas `parte_1` y `parte_2`. Al finalizar el desarrollo de cada una se debe crear un **Pull Request** a la rama principal dentro de su repositorio.
 
