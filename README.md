@@ -22,7 +22,7 @@ $ // de tener problemas con nokogiri: apt-get install libxml2-dev
 
 # Para visualizar al editar
 
-$ cd algoritmos
+$ cd intro
 $ bundle exec jekyll serve --livereload
 $ // de tener problemas con javascript runtime: apt-get install nodejs
 

@@ -17,7 +17,7 @@ Régimen de cursada
 * Desaprobar un trabajo práctico implica desaprobar la cursada y por lo tanto la materia.
 * Para aprobar un trabajo práctico se debe hacer la entrega correspondiente en tiempo y forma.
 * **Plagiar, copiar o realizar un trabajo práctico junto con otros alumnos o externos que no sean integrantes del grupo implica la desaprobación del trabajo y por lo tanto la materia.**
-* Revisar este [instructivo](utils/chatbots) sobre cuándo usar o no chatbots y AI.
+* Revisar este [instructivo](../chatbots) sobre cuándo usar o no chatbots y AI.
 * Cada alumno/grupo tiene asignado un ayudante para la corrección y evaluación de los trabajos prácticos.
 
 ### Coloquio Final
