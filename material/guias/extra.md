@@ -8,6 +8,6 @@ Estos ejercicios utilizan otros comandos no vistos en clase o cosas muy particul
 
 1. Escribir un script que cada 60 segundos muestre cual es el proceso que está consumiendo más memoria
 
-1. Escribir un script que funcione como un servicio \[[linux services]() / [macOS services]()] que cada vez que se inicie el sistema operativo genere un nuevo archivo en el directorio `~/dias_de_arranque` con la fecha y hora del día (formato `YYYY-MM-DD HH:MM:SS`).
+1. Escribir un script que funcione como un servicio \[[linux services](https://www.linuxtotal.com.mx/index.php?cont=info_admon_003) / [macOS services](https://mi-do.medium.com/homebrew-services-how-to-use-how-it-works-and-alternatives-8414bc0ad78c)] que cada vez que se inicie el sistema operativo genere un nuevo archivo en el directorio `~/dias_de_arranque` con la fecha y hora del día (formato `YYYY-MM-DD HH:MM:SS`).
 
 1. Escribir un script de bash que usando los archivos generador por el servicio anterior muestr por stdout los días de la semana en los cuales el sistema operativo se inició sin repetir (si múltiples fechas son un día martes, mostrar martes una sola vez).
