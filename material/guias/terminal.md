@@ -4,7 +4,7 @@ A falta de aclaración, podemos suponer que la estructura de archivos que querem
 ```
 Documentos/
     FIUBA/
-        2024c2/
+        2025c1/
             TB022/
                 TP1/
             TB021/

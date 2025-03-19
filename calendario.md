@@ -3,7 +3,7 @@ Calendario
 
 ## Horarios
 
-La modalidad del curso en el 1er cuatrimestre 2024 es **virtual**:
+La modalidad del curso en el 1er cuatrimestre 2025 es **virtual**:
 
 * Los Lunes de 10:00 a 13:00hs clase teórico práctica
 * Los Miércoles de 18:00 a 21:00hs clase teórico práctica
