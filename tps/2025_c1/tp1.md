@@ -23,4 +23,4 @@ math: true
 
 ## Consigna
 
-Se puede encontrar la consigna en [este link](https://classroom.github.com/classrooms/175907444-tb022-2025c1/assignments/tp1-pokescript) del Github Classroom de este cuatrimestre. Deben tener una cuenta de Github creada y con ella podrán identificarse con su padrón y acceder.
+Se puede encontrar la consigna en [este link](https://classroom.github.com/a/mDEWbb-b) del Github Classroom de este cuatrimestre. Deben tener una cuenta de Github creada y con ella podrán identificarse con su padrón y acceder.
