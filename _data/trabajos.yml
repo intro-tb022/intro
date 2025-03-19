@@ -1,24 +1,24 @@
 TP1:
   id: TP1
-  publicacion: 2024-03-19
-  1ra_entrega: 2024-04-02
-  2da_entrega: 2024-04-16
-  enunciado_link: /tps/2024_c2/tp1
+  publicacion: 2025-03-19
+  1ra_entrega: 2025-04-02
+  2da_entrega: 2025-04-14
+  enunciado_link: /tps/2025_c1/tp1
 
 TP2 Parte 1:
   id: TP2 - Parte 1
-  publicacion: 2024-04-21
-  1ra_entrega: 2024-05-05
-  enunciado_link: /tps/2024_c2/tp2-1
+  publicacion: 2025-04-21
+  1ra_entrega: 2025-05-05
+  enunciado_link: /tps/2025_c1/tp2-1
 
 TP2-2:
   id: TP2 - Parte 2
-  publicacion: 2024-05-07
-  1ra_entrega: 2024-05-26
+  publicacion: 2025-05-07
+  1ra_entrega: 2025-05-26
   enunciado_link: /tps/2024_c2/tp2-2
 
 TP2-3:
   id: TP2 - Parte 3
-  publicacion: 2024-05-26
-  1ra_entrega: 2024-06-16
+  publicacion: 2025-05-26
+  1ra_entrega: 2025-06-16
   enunciado_link: /tps/2024_c2/tp2-3
