@@ -131,7 +131,7 @@ los borre permanentemente en caso de que vuelvan ¿Como debe hacerlo?
 9\. ¿Esta tabla se encuentra bien definida? De no ser así, indicar los
 errores y como corregirlos:
 
-![](../img/image1.png){width="3.125in" height="1.9166666666666667in"}
+![](img/image1.png){width="3.125in" height="1.9166666666666667in"}
 
 ***[EJERCICIOS ADICIONALES]{.underline}***
 
@@ -145,10 +145,10 @@ que estén ordenados por su padrón de manera ascendente.
 12\. De la siguiente base de datos, listar las películas y su idioma.
 Ordenarlas por título de manera ascendente:
 
-![](../img/image2.png){width="5.901388888888889in"
+![](img/image2.png){width="5.901388888888889in"
 height="3.091666666666667in"}
 
 13\. Listar todos los partidos con el nombre de sus árbitros:
 
-![](../img/image3.png){width="5.901388888888889in"
+![](img/image3.png){width="5.901388888888889in"
 height="1.6791666666666667in"}
