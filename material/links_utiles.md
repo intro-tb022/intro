@@ -18,6 +18,7 @@ Como la materia es una colección de herramientas, no hay un libro o bibliograf�
 ### Python
 - [Sitio Oficial](https://www.python.org/)
 - [pytest Documentación Oficial](https://docs.pytest.org/en/stable/)
+- [Apunte teórico de la materia Fundamentos](https://drive.google.com/file/d/0B0KKEIBDHL7tdEQ3bFZ2M3VrZzA/view?resourcekey=0-uMkBoDSnoZjQWxDvcBwQ4g)
 
 ### cURL
 - [Sitio Oficial](https://curl.se/)
@@ -25,7 +26,10 @@ Como la materia es una colección de herramientas, no hay un libro o bibliograf�
 ### Postman
 - [Sitio Oficial](https://www.postman.com/)
 
-### FastApi
+### Bruno
+- [Sitio Oficial](https://www.usebruno.com/)
+
+### FastAPI
 - [Sitio Oficial](https://fastapi.tiangolo.com/)
 
 ### SQL
