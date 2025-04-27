@@ -23,6 +23,10 @@ Mail: lautaro@jimail.co.ar
   3. En una realidad alterna Manolo tuvo un error distinto, ahora agrego
   el atributo "cumpleaños" a la tabla proveedor ¿Cómo puede eliminar dicho
   atributo sin la necesidad de borrar toda la tabla?
+  4. Manolo quiere dejar de cometer errores, para su mala fortuna le
+  dieron la importante tarea de eliminar de la tabla a las personas que
+  abandonaron la empresa. Pero, los superiores de Manolo le dijeron que no
+  los borre permanentemente en caso de que vuelvan ¿Cómo debe hacerlo?
 
 3. Un grupo de arqueólogos argentinos realizó una investigación
 etnoarqueológica con la tribu Nukak, en el territorio del Amazonas
@@ -35,18 +39,18 @@ utensilios.
   1. Realizar el Diagrama de Entidad-Relación (DER).
 
   2. Por cuestiones culturales disminuyó la población. Los pobladores más
-  jóvenes migraron a otra aldea de manera parcial. Eliminarlos de la base
-  de datos.
-
-  3. Para establecer un promedio de la esperanza de vida en esta aldea,
-  seleccionar a los pobladores que sean mayores. Ordenarlos
-  por edad de manera ascendente.
+  jóvenes migraron a otra aldea de manera parcial. Escribir una query que permita eliminar de la DB representada por el DER anterior 
+  los registros correspondientes a estos pobladores
+  
+  3. Escribir una query para calcular el promedio de edad de las personas adultas de la población.
 
   4. La tabla que representa a los pobladores ahora tiene una columna con
   el color de ojos de cada persona. Escribir una query que determine cual
   es el color de ojos más común en la población.
 
   5. Devolver los pobladores cuya edad sea par.
+
+  6. Escribir una query que devuelva los nombres de los pobladores que viven en aldeas de estación seca.
 
 4. La AFA (Asociación de Futbol Argentino) está renovando su base de
 datos y cuenta con las siguientes entidades: jugadores, directores
@@ -121,18 +125,13 @@ Estos ejercicios hacen hincapié en consultas más avanzadas a la BD. Les propon
 mostrar los primeros 20 alumnos cuyos nombres contengan la letra "i" y
 que estén ordenados por su padrón de manera ascendente.
 
-2. Manolo quiere dejar de cometer errores, para su mala fortuna le
-dieron la importante tarea de eliminar de la tabla a las personas que
-abandonaron la empresa. Pero, los superiores de Manolo le dijeron que no
-los borre permanentemente en caso de que vuelvan ¿Cómo debe hacerlo?
-
-3. De la siguiente base de datos, listar las películas y su idioma.
+2. De la siguiente base de datos, listar las películas y su idioma.
 Ordenarlas por título de manera ascendente:
 
 ![](img/image2.png){width="5.901388888888889in"
 height="3.091666666666667in"}
 
-4. Listar todos los partidos con el nombre de sus árbitros, partiendo de la siguiente base de datos.
+3. Listar todos los partidos con el nombre de sus árbitros, partiendo de la siguiente base de datos.
 
 ![](img/image3.png){width="5.901388888888889in"
 height="1.6791666666666667in"}
