@@ -26,10 +26,11 @@ Mail: lautaro@jimail.co.ar
 
 3. Un grupo de arqueólogos argentinos realizó una investigación
 etnoarqueológica con la tribu Nukak, en el territorio del Amazonas
-brasilero-colombiano. Allí convivieron con una aldea de 24 pobladores
-(cada uno cumple con distintos roles dentro de la aldea), hallaron
-viviendas (clasificadas de dos maneras: de estación seca y de estación
-lluviosa), alimentos, fauna, flora y utensilios.
+brasilero-colombiano. Allí convivieron con los habitantes de una aldea
+de unos cientos de pobladores (cada uno cumple con distintos roles
+dentro de la aldea), hallaron viviendas (clasificadas de dos maneras: de
+estación seca y de estación lluviosa), alimentos, fauna, flora y
+utensilios.
 
   1. Realizar el Diagrama de Entidad-Relación (DER).
 
