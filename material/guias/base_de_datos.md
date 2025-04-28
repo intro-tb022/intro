@@ -11,9 +11,9 @@ cargando registros en la tabla cliente. Como estaba trabajando a las 6
 de la mañana, sin haber consumido una gota de café, mientras cargaba un
 cliente se dio cuenta que escribió mal su nombre y su mail.
 
-Nombre: Lhautar0
+  Nombre: Lhautar0
 
-Mail: lautaro@jimail.co.ar
+  Mail: lautaro@jimail.co.ar
 
   1. Ayuda a Manolo a no perder su trabajo y enmendar su error ¿Cómo harías
   para que corrija los atributos sin borrar el registro?
@@ -56,8 +56,8 @@ utensilios.
 datos y cuenta con las siguientes entidades: jugadores, directores
 técnicos, clubes, artículos, proveedores.
 
-Realizar el DER correspondiente y crear las tablas con los atributos
-adecuados. En este debe quedar en claro cuáles son Primary Keys y cuáles Foreign Keys.
+  Realizar el DER correspondiente y crear las tablas con los atributos
+  adecuados. En este debe quedar en claro cuáles son Primary Keys y cuáles Foreign Keys.
 
 5. El dueño de una sucursal de venta de instrumentos musicales quiere
 incorporar una base de datos. Los instrumentos son clasificados por
@@ -65,39 +65,39 @@ tipo: percusión, viento, electrónicos y cuerda. También cuenta con un
 tipo de instrumentos categorizados como "legendarios", los cuales
 pertenecieron a alguna celebridad del entorno.
 
-De los instrumentos considerar los atributos:
+  De los instrumentos considerar los atributos:
 
-  - Código_Instrumento.
-  - Nombre. 
-  - Clasificación.
-  - Tipo.
-  - Categoría (es decir, si son comunes o legendarios).
-  - Artista_Original (en caso de que pertenezca a la categoría de
-  "legendario", el nombre de la celebridad a la que perteneció).
-  - Precio.
+    - Código_Instrumento.
+    - Nombre. 
+    - Clasificación.
+    - Tipo.
+    - Categoría (es decir, si son comunes o legendarios).
+    - Artista_Original (en caso de que pertenezca a la categoría de
+    "legendario", el nombre de la celebridad a la que perteneció).
+    - Precio.
 
-De los empleados considerar los siguientes atributos:
+  De los empleados considerar los siguientes atributos:
 
-  - ID_Empleado.
-  - DNI.
-  - Nombre.
-  - Apellido.
-  - Fecha_De_Nacimiento.
-  - Domicilio.
-  - Fecha_De_Alta (es decir, la fecha en la que ingresó a trabajar en
-  dicha sucursal).
-  - Salario.
-  - Contacto.
+    - ID_Empleado.
+    - DNI.
+    - Nombre.
+    - Apellido.
+    - Fecha_De_Nacimiento.
+    - Domicilio.
+    - Fecha_De_Alta (es decir, la fecha en la que ingresó a trabajar en
+    dicha sucursal).
+    - Salario.
+    - Contacto.
 
-De los clientes interesan los siguientes datos:
+  De los clientes interesan los siguientes datos:
 
-  - ID_Cliente.
-  - Nombre.
-  - Apellido.
-  - Domicilio.
-  - Teléfono.
-  - Compras_Acumuladas (es decir, la cantidad de compras totales que
-  realizó el cliente).
+    - ID_Cliente.
+    - Nombre.
+    - Apellido.
+    - Domicilio.
+    - Teléfono.
+    - Compras_Acumuladas (es decir, la cantidad de compras totales que
+    realizó el cliente).
 
   1. Crear la respectiva base de datos con sus tablas.
   2. Marcar en cada tabla las primary keys y las foreign keys.
@@ -115,7 +115,7 @@ integridad referencial entre ambas?
 7. ¿Esta tabla se encuentra bien definida? De no ser así, indicar los
 errores y como corregirlos:
 
-![](img/image1.png){width="3.125in" height="1.9166666666666667in"}
+  ![](img/image1.png)
 
 
 ## Queries
@@ -128,10 +128,8 @@ que estén ordenados por su padrón de manera ascendente.
 2. De la siguiente base de datos, listar las películas y su idioma.
 Ordenarlas por título de manera ascendente:
 
-![](img/image2.png){width="5.901388888888889in"
-height="3.091666666666667in"}
+  ![](img/image2.png)
 
 3. Listar todos los partidos con el nombre de sus árbitros, partiendo de la siguiente base de datos.
 
-![](img/image3.png){width="5.901388888888889in"
-height="1.6791666666666667in"}
+  ![](img/image3.png)
