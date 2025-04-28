@@ -10,23 +10,23 @@ palabras.
 cargando registros en la tabla cliente. Como estaba trabajando a las 6
 de la mañana, sin haber consumido una gota de café, mientras cargaba un
 cliente se dio cuenta que escribió mal su nombre y su mail.
-
-  Nombre: Lhautar0
-
-  Mail: lautaro@jimail.co.ar
-
-  1. Ayuda a Manolo a no perder su trabajo y enmendar su error ¿Cómo harías
-  para que corrija los atributos sin borrar el registro?
-  2. Manolo tuvo otro percance (sí, esta al horno), mientras creaba la
-  tabla PROVEEDOR escribió mal el atributo "nombre" por "nomvre". 
-  ¿Cómo puede corregir ese atributo?
-  3. En una realidad alterna Manolo tuvo un error distinto, ahora agrego
-  el atributo "cumpleaños" a la tabla proveedor ¿Cómo puede eliminar dicho
-  atributo sin la necesidad de borrar toda la tabla?
-  4. Manolo quiere dejar de cometer errores, para su mala fortuna le
-  dieron la importante tarea de eliminar de la tabla a las personas que
-  abandonaron la empresa. Pero, los superiores de Manolo le dijeron que no
-  los borre permanentemente en caso de que vuelvan ¿Cómo debe hacerlo?
+    
+    Nombre: Lhautar0
+    
+    Mail: lautaro@jimail.co.ar
+    
+    1. Ayuda a Manolo a no perder su trabajo y enmendar su error ¿Cómo harías
+    para que corrija los atributos sin borrar el registro?
+    2. Manolo tuvo otro percance (sí, esta al horno), mientras creaba la
+    tabla PROVEEDOR escribió mal el atributo "nombre" por "nomvre". 
+    ¿Cómo puede corregir ese atributo?
+    3. En una realidad alterna Manolo tuvo un error distinto, ahora agrego
+    el atributo "cumpleaños" a la tabla proveedor ¿Cómo puede eliminar dicho
+    atributo sin la necesidad de borrar toda la tabla?
+    4. Manolo quiere dejar de cometer errores, para su mala fortuna le
+    dieron la importante tarea de eliminar de la tabla a las personas que
+    abandonaron la empresa. Pero, los superiores de Manolo le dijeron que no
+    los borre permanentemente en caso de que vuelvan. ¿Cómo debe hacerlo?
 
 3. Un grupo de arqueólogos argentinos realizó una investigación
 etnoarqueológica con la tribu Nukak, en el territorio del Amazonas
@@ -36,73 +36,68 @@ dentro de la aldea), hallaron viviendas (clasificadas de dos maneras: de
 estación seca y de estación lluviosa), alimentos, fauna, flora y
 utensilios.
 
-  1. Realizar el Diagrama de Entidad-Relación (DER).
-
-  2. Por cuestiones culturales disminuyó la población. Los pobladores más
-  jóvenes migraron a otra aldea de manera parcial. Escribir una query que permita eliminar de la DB representada por el DER anterior 
-  los registros correspondientes a estos pobladores
-  
-  3. Escribir una query para calcular el promedio de edad de las personas adultas de la población.
-
-  4. La tabla que representa a los pobladores ahora tiene una columna con
-  el color de ojos de cada persona. Escribir una query que determine cual
-  es el color de ojos más común en la población.
-
-  5. Devolver los pobladores cuya edad sea par.
-
-  6. Escribir una query que devuelva los nombres de los pobladores que viven en aldeas de estación seca.
+    1. Realizar el Diagrama de Entidad-Relación (DER).
+    2. Por cuestiones culturales disminuyó la población. Los pobladores más
+    jóvenes migraron a otra aldea de manera parcial. Escribir una query que permita eliminar de la DB representada por el DER anterior 
+    los registros correspondientes a estos pobladores
+    3. Escribir una query para calcular el promedio de edad de las personas adultas de la población.
+    4. La tabla que representa a los pobladores ahora tiene una columna con
+    el color de ojos de cada persona. Escribir una query que determine cual
+    es el color de ojos más común en la población.
+    5. Devolver los pobladores cuya edad sea par.
+    6. Escribir una query que devuelva los nombres de los pobladores que viven en aldeas de estación seca.
 
 4. La AFA (Asociación de Futbol Argentino) está renovando su base de
 datos y cuenta con las siguientes entidades: jugadores, directores
 técnicos, clubes, artículos, proveedores.
-
-  Realizar el DER correspondiente y crear las tablas con los atributos
-  adecuados. En este debe quedar en claro cuáles son Primary Keys y cuáles Foreign Keys.
+    
+    Realizar el DER correspondiente y crear las tablas con los atributos
+    adecuados. En este debe quedar en claro cuáles son Primary Keys y cuáles Foreign Keys.
 
 5. El dueño de una sucursal de venta de instrumentos musicales quiere
 incorporar una base de datos. Los instrumentos son clasificados por
 tipo: percusión, viento, electrónicos y cuerda. También cuenta con un
 tipo de instrumentos categorizados como "legendarios", los cuales
 pertenecieron a alguna celebridad del entorno.
-
-  De los instrumentos considerar los atributos:
-
-    - Código_Instrumento.
-    - Nombre. 
-    - Clasificación.
-    - Tipo.
-    - Categoría (es decir, si son comunes o legendarios).
-    - Artista_Original (en caso de que pertenezca a la categoría de
-    "legendario", el nombre de la celebridad a la que perteneció).
-    - Precio.
-
-  De los empleados considerar los siguientes atributos:
-
-    - ID_Empleado.
-    - DNI.
-    - Nombre.
-    - Apellido.
-    - Fecha_De_Nacimiento.
-    - Domicilio.
-    - Fecha_De_Alta (es decir, la fecha en la que ingresó a trabajar en
-    dicha sucursal).
-    - Salario.
-    - Contacto.
-
-  De los clientes interesan los siguientes datos:
-
-    - ID_Cliente.
-    - Nombre.
-    - Apellido.
-    - Domicilio.
-    - Teléfono.
-    - Compras_Acumuladas (es decir, la cantidad de compras totales que
-    realizó el cliente).
-
-  1. Crear la respectiva base de datos con sus tablas.
-  2. Marcar en cada tabla las primary keys y las foreign keys.
-  3. Cargar al menos 3 registros en cada tabla.
-  4. Mostrar aquellos instrumentos que sean del tipo legendario.
+    
+    De los instrumentos considerar los atributos:
+    
+      - Código_Instrumento.
+      - Nombre. 
+      - Clasificación.
+      - Tipo.
+      - Categoría (es decir, si son comunes o legendarios).
+      - Artista_Original (en caso de que pertenezca a la categoría de
+      "legendario", el nombre de la celebridad a la que perteneció).
+      - Precio.
+  
+    De los empleados considerar los siguientes atributos:
+    
+      - ID_Empleado.
+      - DNI.
+      - Nombre.
+      - Apellido.
+      - Fecha_De_Nacimiento.
+      - Domicilio.
+      - Fecha_De_Alta (es decir, la fecha en la que ingresó a trabajar en
+      dicha sucursal).
+      - Salario.
+      - Contacto.
+    
+    De los clientes interesan los siguientes datos:
+    
+      - ID_Cliente.
+      - Nombre.
+      - Apellido.
+      - Domicilio.
+      - Teléfono.
+      - Compras_Acumuladas (es decir, la cantidad de compras totales que
+      realizó el cliente).
+    
+    1. Crear la respectiva base de datos con sus tablas.
+    2. Marcar en cada tabla las primary keys y las foreign keys.
+    3. Cargar al menos 3 registros en cada tabla.
+    4. Mostrar aquellos instrumentos que sean del tipo legendario.
 
 
 6. Dos de las tablas de la base de datos del Club Atlético Huracan son
@@ -114,8 +109,8 @@ integridad referencial entre ambas?
 
 7. ¿Esta tabla se encuentra bien definida? De no ser así, indicar los
 errores y como corregirlos:
-
-  ![](img/image1.png)
+    
+    ![](img/image1.png)
 
 
 ## Queries
@@ -127,9 +122,9 @@ que estén ordenados por su padrón de manera ascendente.
 
 2. De la siguiente base de datos, listar las películas y su idioma.
 Ordenarlas por título de manera ascendente:
-
-  ![](img/image2.png)
+    
+    ![](img/image2.png)
 
 3. Listar todos los partidos con el nombre de sus árbitros, partiendo de la siguiente base de datos.
-
-  ![](img/image3.png)
+    
+    ![](img/image3.png)
