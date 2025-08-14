@@ -21,7 +21,7 @@ Régimen de cursada
 * Cada alumno/grupo tiene asignado un ayudante para la corrección y evaluación de los trabajos prácticos.
 
 ### Coloquio Final
-* Una vez aprobado el TP2, es necesario rendir un coloquio (oral) sobre el mismo. En el mismo, se analizará la participación de cada integrante del equipo y se harán preguntas acerca de la implementación y el trabajo realizado por cada uno en las entregas.
+* Una vez aprobado el TP2, es necesario rendir un coloquio (oral) presencial sobre el mismo. En el mismo, se analizará la participación de cada integrante del equipo y se harán preguntas acerca de la implementación y el trabajo realizado por cada uno en las entregas.
 
 ### Calificación
 
