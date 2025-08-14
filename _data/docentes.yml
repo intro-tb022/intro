@@ -20,20 +20,31 @@ ayudantes:
 
 colaboradores:
 
-- nombre: Facundo Aguirre Argerich
-  foto: /assets/img/docentes/facuaa.png
-  mail: facu_nixerito@hotmail.com
-  github: bonshot
-
 - nombre: Agustina Dominguez
   foto: /assets/img/docentes/agusd.webp
   mail: asdominguez@fi.uba.ar
   github: agusss03
 
+
+- nombre: Bruna Lamberti
+  foto: /assets/img/docentes/brunal.webp
+  mail: blamberti@fi.uba.ar
+  github: brubrubru-96
+
 - nombre: Franco Carabajal
   foto: /assets/img/docentes/francc.webp
   mail: fcarabajal@fi.uba.ar
   github: Francocarabajal78
+
+- nombre: Franco Primerano Lomba
+  foto: /assets/img/docentes/franpl.webp
+  mail: fprimeranolomba@fi.uba.ar
+  github: Francocarabajal78
+
+- nombre: Joaquin Enrique Marín
+  foto: /assets/img/docentes/joaqe.webp
+  mail: enriquezmarinjoaquin@gmail.com
+  github: 
 
 - nombre: Lautaro Hidalgo
   foto: /assets/img/docentes/lauth.webp
