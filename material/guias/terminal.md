@@ -18,7 +18,7 @@ Documentos/
 
 1. Estoy en medio de la clase y quiero tomar notas en un archivo de texto aclarando que es la clase 2 que trata sobre la terminal. ¿Cómo lo creo?
 
-1. Creé un archivo y resolví todo el TP. Se llamaba algo con “tp1”, pero me di cuenta que no tengo idea en qué directorio estoy parado y necesito moverlo al directorio de la materia correspondiente.
+1. Creé un archivo y resolví todo el TP. Se llamaba algo con “tp1”, pero me di cuenta que no tengo idea en qué directorio estoy parado ahora, ni en qué subcarpeta lo creé y necesito moverlo al directorio de la materia correspondiente.
 
     {:.lower_alpha}
     1. ¿Cómo sé dónde estoy?
@@ -43,8 +43,6 @@ Documentos/
 1. Tengo un script RE IMPORTANTE que en teoría me resuelve todo el TP1. Pero lo corro y no muestra nada ni hace nada. ¿Qué puedo hacer para entender qué está pasando?
 
 1. Tengo un script que me calcula el promedio de un archivo que tiene cada una de mis notas, una por línea. ¿Cómo imprimo por pantalla mi promedio?
-
-1. Acabo de crear un archivo por consola que sé que lo llamé “tp1.py” pero sin querer cerré la terminal y lo perdí porque no sé dónde estaba. ¿Cómo lo encuentro?
 
 1. En la carpeta de la materia tengo un archivo `.py` por cada ejercicio que hice. 
 
