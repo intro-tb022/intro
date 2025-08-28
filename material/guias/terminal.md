@@ -56,10 +56,10 @@ Documentos/
 
 1. ¿Cómo abro un archivo de texto con Visual Studio Code desde la consola?
 
-1. El SIU anda muy mal así que tengo un amigo que armó un programa en C y me pasó el ejecutable para usarlo. El mismo me permite subir una nota de una materia y después consultar mi historial y promedio. Para ésto, tiene una interfaz como la siguiente:
+1. El SIU anda muy mal así que tengo un amigo que armó un programa en C y me pasó el ejecutable para usarlo. El mismo me permite subir una nota de una materia y después consultar mi historial y promedio. Para esto, tiene una interfaz como la siguiente:
 
     ```
-    Qué desea hacer?
+    ¿Qué desea hacer?
     1. Agregar nota
     2. Consultar historial y promedio
     Enter para salir.
@@ -75,4 +75,4 @@ Documentos/
     codigo,nota
     ```
 
-    1. ¿Cómo puedo hacer?
+    ¿Cómo puedo hacer?
