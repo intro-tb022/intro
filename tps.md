@@ -8,9 +8,18 @@ respectivas fechas de entrega.
   <tbody id="tabla-trabajos">
     <tr>
       <td><strong>TP</strong></td>
-      <td><strong>Fecha de publicación</strong></td>
-      <td><strong>Fecha de entrega</strong></td>
-      <td><strong>Fecha de reentrega</strong></td>
+    </tr>
+    <tr>
+      <td> <a href='{{/tps/2025_c2/tp1 | relative_url}}'>TP1</a> </td>
+    </tr>
+    <tr>
+      <td> <a href='{{/tps/2025_c2/tp2-1 | relative_url}}'>TP2 - Parte 1</a> </td>
+    </tr>
+    <tr>
+      <td> <a href='{{/tps/2025_c2/tp2-2 | relative_url}}'>TP2 - Parte 2</a> </td>
+    </tr>
+    <tr>
+      <td> <a href='{{/tps/2025_c2/tp2-3 | relative_url}}'>TP2 - Parte 3</a> </td>
     </tr>
   </tbody>
 </table>
